@@ -5,4 +5,4 @@ A repo established to give examples and information about artificial intelligenc
 
 | Algoritma             |                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Simple linear regression | ✔️ Done |
+|[Simple linear regression](https://en.wikipedia.org/wiki/Simple_linear_regression)| ✔️ Done |
