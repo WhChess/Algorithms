@@ -6,6 +6,7 @@ A repo established to give examples and information about artificial intelligenc
 | Algoritma             |                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 |[Simple Linear Regression](https://en.wikipedia.org/wiki/Simple_linear_regression)| ✔️ Done |
+|[General linear Model](https://en.wikipedia.org/wiki/General_linear_model)| ❌ Not Done |
 |[Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)| ❌ Not Done |
 |[Decision Trees](https://en.wikipedia.org/wiki/Decision_tree)| ❌ Not Done |
 |[Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)| ❌ Not Done |
